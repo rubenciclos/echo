@@ -8,7 +8,9 @@ public class Saludo {
 		
 		System.out.println("Hola mundo!");
 		System.out.println("Adios mundo!");
+		System.out.println("Otro saludo!");
 
+		
 	}
 
 }
