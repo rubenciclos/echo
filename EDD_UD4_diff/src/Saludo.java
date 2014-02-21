@@ -12,6 +12,7 @@ public class Saludo {
 		System.out.println("Otro Mas!");
 		System.out.println("Van 5!");
 		System.out.println("Moficacion 6!");
+		System.out.println("Moficacion multiple!");
 
 
 		
