@@ -13,6 +13,7 @@ public class Saludo {
 		System.out.println("Van 5!");
 		System.out.println("Moficacion 6!");
 		System.out.println("Moficacion multiple!");
+		System.out.println("Prueba de diferencias!");
 
 
 		
